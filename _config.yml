@@ -1,6 +1,7 @@
-theme: jekyll-theme-hacker
 title: Mein privater Blog
+author: Florian Klappan
 description: Gedanken und Gelaber
 
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-sitemap
