@@ -2,6 +2,7 @@ title: Mein privater Blog
 author: Florian Klappan
 description: Gedanken und Gelaber
 
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
