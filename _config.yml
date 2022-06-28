@@ -1,3 +1,6 @@
 theme: jekyll-theme-hacker
 title: Mein privater Blog
 description: Gedanken und Gelaber
+
+plugins:
+  - jekyll-sitemap
